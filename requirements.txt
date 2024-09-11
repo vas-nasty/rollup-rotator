@@ -28,3 +28,4 @@ pydantic==1.0.1
 pydantic==2.7.3
 pydantic==0.5.8
 pydantic==1.5.2
+requests==1.9.3
