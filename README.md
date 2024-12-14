@@ -6,3 +6,4 @@
 - Update note 1192
 - Update note 6699
 - Update note 2733
+- Update note 1406
