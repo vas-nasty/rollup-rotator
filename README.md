@@ -18,3 +18,4 @@
 - Update note 7804
 - Update note 4602
 - Update note 2004
+- Update note 8734
